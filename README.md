@@ -1,3 +1,11 @@
+------APP FEATURES & FUNCTIONALITIES--------
+DISPLAYS PRODUCT NAME, PRICE, AND IMAGE.
+IT UTILIZES FLATLIST AND LOADMORE.
+FIRST, IT DISPLAYS THE FIRST BATCH OF ITEMS ( ITEMS WITH ITEM_ID 1-10) 
+THEN AFTER REACHING THE BOTTOM PART OF THE PRODUCT LIST IT DISPLAYS THE NEXT BATCH OF PRODUCTS ( ITEMS WITH ITEM_ID 11-20) 
+THEN IT REPEATS THE SEQUENCE OF DISPLAYING PRODUCTS
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
